@@ -1,0 +1,25 @@
+{
+  "name": "react-pseudo-style",
+  "version": "0.0.1",
+  "description": "React helper for inline styles on pseudo selectors like ::placeholder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unframework/react-pseudo-style.git"
+  },
+  "author": "Nick Matantsev <nick.matantsev@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unframework/react-pseudo-style/issues"
+  },
+  "homepage": "https://github.com/unframework/react-pseudo-style#readme",
+  "dependencies": {
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1",
+    "styletron-client": "^2.5.1",
+    "styletron-utils": "^2.5.1"
+  }
+}
