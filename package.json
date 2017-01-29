@@ -1,6 +1,6 @@
 {
   "name": "react-pseudo-style",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "React helper for inline styles on pseudo selectors like ::placeholder",
   "main": "index.js",
   "scripts": {

@@ -24,7 +24,6 @@ class Placeholder extends React.PureComponent {
 
                 return injectStyle(styletron, styleData);
             } catch (e) {
-                console.log(e)
                 return '';
             }
         }.bind(this)).join(' ');
